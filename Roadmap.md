@@ -1,4 +1,4 @@
-![Assembly](./Assembly.png)
+![AssemblyRoadmap](./AssemblyRoadmap.png)
 # Assembly Language Course Roadmap
 
 ## Module 1: Introduction to Assembly Language
