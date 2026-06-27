@@ -1,4 +1,4 @@
-![IntroductionToAssembly](./IntroductionToAssembl.png)
+![IntroductionToAssembly](./IntroductionToAssembly.png)
 
 # Module 1: Introduction to Assembly Language
 
