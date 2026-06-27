@@ -2,12 +2,12 @@
 
 # Module 2: Computer Architecture Basics
 
-## 📚 Course Overview
+##  Course Overview
 This module covers the fundamental concepts of computer architecture, focusing on how processors work at the hardware level. Students will understand CPU design, memory organization, and how components communicate through buses.
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 1. [CPU Architecture](#cpu-architecture)
 2. [Registers](#registers)
 3. [Memory Organization](#memory-organization)
@@ -808,20 +808,20 @@ end start
 
 ### Learning Objectives Checklist (8086)
 
-- ✅ Understand 8086 CPU architecture and main components
-- ✅ Learn purpose and usage of all 8 general-purpose 16-bit registers
-- ✅ Understand 4 segment registers (CS, DS, ES, SS)
-- ✅ Master real mode memory segmentation (Segment:Offset addressing)
-- ✅ Comprehend 8086 addressing modes with segment overrides
-- ✅ Know the role of three bus types in 8086
-- ✅ Apply concepts in 8086 real mode assembly programs
-- ✅ Understand Fetch-Decode-Execute cycle in 8086
-- ✅ Work with stack operations and interrupts (INT 21h for DOS)
-- ✅ Master 8086 program structure with multiple segments
+-  Understand 8086 CPU architecture and main components
+-  Learn purpose and usage of all 8 general-purpose 16-bit registers
+-  Understand 4 segment registers (CS, DS, ES, SS)
+-  Master real mode memory segmentation (Segment:Offset addressing)
+- Comprehend 8086 addressing modes with segment overrides
+- Know the role of three bus types in 8086
+-  Apply concepts in 8086 real mode assembly programs
+-  Understand Fetch-Decode-Execute cycle in 8086
+-  Work with stack operations and interrupts (INT 21h for DOS)
+-  Master 8086 program structure with multiple segments
 
 ---
 
-## 🎓 Practice Questions (8086)
+##  Practice Questions (8086)
 
 1. **How does the 8086 address 1 MB of memory with only 16-bit registers?**
    - Uses Segment:Offset model: Physical Address = (Segment × 16) + Offset
@@ -858,7 +858,7 @@ end start
 
 ---
 
-## 📚 Additional Resources (8086)
+##  Additional Resources (8086)
 
 - **Intel 8086 Microprocessor User's Manual**
 - **The 8086/8088 Microcomputer: Architecture, Software, and Interfacing** by Barry Brey
@@ -869,7 +869,7 @@ end start
 
 ---
 
-## 📝 Notes for Students (8086)
+##  Notes for Students (8086)
 
 ### Essential Concepts for 8086
 - **Always initialize segment registers** at the start of your program
