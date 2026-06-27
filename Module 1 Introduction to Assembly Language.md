@@ -1,3 +1,5 @@
+![IntroductionToAssembly](./IntroductionToAssembl.png)
+
 # Module 1: Introduction to Assembly Language
 
 Assembly Language is one of the earliest programming languages and is considered a low-level language because it works very close to computer hardware. Unlike high-level languages such as C++, Python, or Java, Assembly Language allows programmers to interact directly with the processor and memory.
