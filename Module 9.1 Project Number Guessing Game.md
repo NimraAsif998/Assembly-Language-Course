@@ -79,63 +79,83 @@ If Guess = Secret Number
 ```assembly id="0cqz6t"
 .model small
 .stack 100h
-
 .data
-    msg1 db 13,10,'Guess a number between 0 and 9: $'
-    highMsg db 13,10,'Too High!$'
-    lowMsg db 13,10,'Too Low!$'
-    correctMsg db 13,10,'Correct Guess!$'
-
-    secret db 7
+    ; Game text messages
+    msg_start db 'Guess the secret number (0-9): $'
+    msg_high  db 0dh, 0ah, 'Too high! Try again.$'
+    msg_low   db 0dh, 0ah, 'Too low! Try again.$'
+    msg_win   db 0dh, 0ah, 'Correct! You win!$'
+    
+    ; The secret number (ASCII value for '5')
+    secret    db '5' 
 
 .code
 main proc
+    ; Initialize data segment
+    mov ax, @data
+    mov ds, ax
 
-    mov ax,@data
-    mov ds,ax
-
-    ; Display message
-    lea dx,msg1
-    mov ah,09h
+game_loop:
+    ; Print the start message
+    mov dx, offset msg_start
+    mov ah, 09h
     int 21h
 
-    ; Take input
-    mov ah,01h
+    ; Read a single character from the user (stored in AL)
+    mov ah, 01h
     int 21h
 
-    ; Convert ASCII to integer
-    sub al,48
+    ; --- CMP AND JUMP LOGIC STARTS HERE ---
+    
+    ; Compare user input (AL) with the secret number
+    cmp al, secret
+    
+    ; Jump if Equal: Go to win section if AL == secret
+    je win_game
+    
+    ; Jump if Less Than: Go to low section if AL < secret
+    jl too_low
+    
+    ; Jump if Greater Than: Go to high section if AL > secret
+    jg too_high
 
-    ; Compare with secret number
-    cmp al,secret
-
-    je Correct
-    jg TooHigh
-    jl TooLow
-
-TooHigh:
-    lea dx,highMsg
-    mov ah,09h
+too_high:
+    ; Print "Too high!" message
+    mov dx, offset msg_high
+    mov ah, 09h
     int 21h
-    jmp ExitProgram
+    jmp next_turn        ; Unconditional jump to reset the loop
 
-TooLow:
-    lea dx,lowMsg
-    mov ah,09h
+too_low:
+    ; Print "Too low!" message
+    mov dx, offset msg_low
+    mov ah, 09h
     int 21h
-    jmp ExitProgram
+    jmp next_turn        ; Unconditional jump to reset the loop
 
-Correct:
-    lea dx,correctMsg
-    mov ah,09h
+next_turn:
+    ; Print a newline for spacing
+    mov dl, 0dh
+    mov ah, 02h
+    int 21h
+    mov dl, 0ah
+    int 21h
+    
+    jmp game_loop        ; Loop back to let user guess again
+
+win_game:
+    ; Print victory message
+    mov dx, offset msg_win
+    mov ah, 09h
     int 21h
 
-ExitProgram:
-    mov ah,4Ch
+    ; Exit program safely
+    mov ah, 4ch
     int 21h
 
 main endp
 end main
+
 ```
 
 ---
