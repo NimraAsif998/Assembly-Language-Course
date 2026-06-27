@@ -63,6 +63,6 @@ end main
 | Can't assemble | Check syntax; use the built-in assembler |
 
 
-## Written by 
-### Nimra asif
+## **Written by*
+### **Nimra asif*
 
