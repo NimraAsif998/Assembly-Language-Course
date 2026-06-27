@@ -1,4 +1,4 @@
-![Module 2](./Module2.png)
+![Module 2](./Module 2.png)
 
 # Module 2: Computer Architecture Basics
 
