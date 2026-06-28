@@ -1,3 +1,4 @@
+![Projects](./Projects.png)
 # Multi-Function Calculator in Assembly Language (EMU8086)
 
 ## Project Description
