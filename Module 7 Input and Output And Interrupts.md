@@ -1,3 +1,4 @@
+![inputAndOutput](./inputAndOutput.png)
 # Module 7: Input and Output
 
 Input and Output (I/O) operations allow a program to communicate with the user and external devices. In Assembly language, I/O operations are commonly performed using **interrupts**. The **8086 microprocessor** mainly uses **DOS** and **BIOS interrupts** for handling input and output operations.
