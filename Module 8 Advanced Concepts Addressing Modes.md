@@ -1,3 +1,4 @@
+![AdvancedConcept](./AdvancedConcept.png)
 # Module 8: Advanced Concepts – Addressing Modes
 
 ## Introduction
