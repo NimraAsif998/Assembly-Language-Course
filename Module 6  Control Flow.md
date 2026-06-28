@@ -1,4 +1,4 @@
-
+![controlFlow](./controlFlow.png)
 
 # Module 6: Control Flow
 
