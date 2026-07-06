@@ -1,0 +1,683 @@
+%PDF-1.4
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 6 0
+1 0 obj
+<<
+  /PageMode /UseNone
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 7 0
+2 0 obj
+<<
+  /Author (\(anonymous\))
+  /CreationDate (D:20260706102747+00'00')
+  /Creator (\(unspecified\))
+  /Keywords ()
+  /ModDate (D:20260706102747+00'00')
+  /Producer (ReportLab PDF Library - \(opensource\))
+  /Subject (\(unspecified\))
+  /Title (\(anonymous\))
+  /Trapped /False
+>>
+endobj
+
+%% Original object ID: 8 0
+3 0 obj
+<<
+  /Count 1
+  /Kids [
+    4 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 5 0
+4 0 obj
+<<
+  /Contents 5 0 R
+  /MediaBox [
+    0
+    0
+    595.2756
+    841.8898
+  ]
+  /Parent 3 0 R
+  /Resources <<
+    /Font 7 0 R
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+  >>
+  /Rotate 0
+  /Trans <<
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 9 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 37.1811 794.0472 cm
+q
+.101961 .235294 .431373 rg
+BT 1 0 0 1 0 7 Tm /F2 15 Tf 22 TL 100.4142 0 Td (Number System Conversions \227 Quick Notes) Tj T* -100.4142 0 Td ET
+Q
+Q
+q
+1 0 0 1 37.1811 781.0472 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 140.0329 0 Td (Decimal \177 Binary \177 Octal \177 Hexadecimal \227 with solved examples) Tj T* -140.0329 0 Td ET
+Q
+Q
+q
+1 0 0 1 37.1811 775.0472 cm
+q
+1 w
+1 J
+.101961 .235294 .431373 RG
+n 0 0 m 520.9134 0 l S
+Q
+Q
+q
+1 0 0 1 42.51969 745.0472 cm
+q
+.101961 .235294 .431373 rg
+n 0 22 510.2362 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 2 8.5 Tm /F2 9.5 Tf 18 TL (1. Decimal ) Tj /F3 9.5 Tf 18 TL <ae> Tj /F2 9.5 Tf 18 TL ( Binary / Octal / Hex \(Example: 25\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 742.0472 cm
+Q
+q
+1 0 0 1 42.51969 585.0472 cm
+q
+.862745 .901961 .960784 rg
+n 0 157 510.2362 -13.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 145.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Target) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 145.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Simple Steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 145.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Answer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Binary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 75.8 cm
+q
+BT 1 0 0 1 0 58.7 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Keep dividing 25 by 2, note the remainder each time, stop at 0:) Tj  T* (25 ÷ 2 = 12, remainder ) Tj /F2 7.1 Tf (1) Tj /F1 7.1 Tf  T* (12 ÷ 2 = 6, remainder ) Tj /F2 7.1 Tf (0) Tj /F1 7.1 Tf  T* (6 ÷ 2 = 3, remainder ) Tj /F2 7.1 Tf (0) Tj /F1 7.1 Tf  T* (3 ÷ 2 = 1, remainder ) Tj /F2 7.1 Tf (1) Tj /F1 7.1 Tf  T* (1 ÷ 2 = 0, remainder ) Tj /F2 7.1 Tf (1) Tj /F1 7.1 Tf  T* (Now read remainders from last to first \(bottom to top\): 1 1 0 0 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (11001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 48.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Octal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 34.2 cm
+q
+BT 1 0 0 1 0 30.5 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Same idea, but divide by 8 instead of 2:) Tj  T* (25 ÷ 8 = 3, remainder ) Tj /F2 7.1 Tf (1) Tj /F1 7.1 Tf  T* (3 ÷ 8 = 0, remainder ) Tj /F2 7.1 Tf (3) Tj /F1 7.1 Tf  T* (Read bottom to top: 3 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 48.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (31) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 11.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Hex) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 2 cm
+q
+BT 1 0 0 1 0 21.1 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Divide by 16 instead:) Tj  T* (25 ÷ 16 = 1, remainder ) Tj /F2 7.1 Tf (9) Tj /F1 7.1 Tf  T* (Read bottom to top: 1 9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 11.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (19) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.5 w
+n 0 157 m 510.2362 157 l S
+n 0 0 m 510.2362 0 l S
+n 0 0 m 0 157 l S
+n 510.2362 0 m 510.2362 157 l S
+n 0 143.6 m 510.2362 143.6 l S
+n 0 73.8 m 510.2362 73.8 l S
+n 0 32.2 m 510.2362 32.2 l S
+n 51.02362 0 m 51.02362 157 l S
+n 425.1969 0 m 425.1969 157 l S
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 582.0472 cm
+Q
+q
+1 0 0 1 42.51969 560.0472 cm
+q
+.541176 .101961 .101961 rg
+n 0 22 510.2362 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 2 8.5 Tm /F2 9.5 Tf 18 TL (2. Binary ) Tj /F3 9.5 Tf 18 TL <ae> Tj /F2 9.5 Tf 18 TL ( Decimal / Octal / Hex \(Example: 101101\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 557.0472 cm
+Q
+q
+1 0 0 1 42.51969 409.4472 cm
+q
+.960784 .862745 .862745 rg
+n 0 147.6 510.2362 -13.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 136.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Target) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 136.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Simple Steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 136.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Answer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Decimal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 85.2 cm
+q
+BT 1 0 0 1 0 39.9 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Write the value of 2 under each digit \(1, 2, 4, 8, 16, 32...\), starting from the right.) Tj  T* (Digits:) Tj ( ) Tj ( ) Tj (1) Tj ( ) Tj ( ) Tj (0) Tj ( ) Tj ( ) Tj (1) Tj ( ) Tj ( ) Tj (1) Tj ( ) Tj ( ) Tj (0) Tj ( ) Tj ( ) Tj (1) Tj  T* (Values:) Tj ( ) Tj (32) Tj ( ) Tj (16) Tj ( ) Tj ( ) Tj (8) Tj ( ) Tj ( ) Tj (4) Tj ( ) Tj ( ) Tj (2) Tj ( ) Tj ( ) Tj (1) Tj  T* (Add the values where the digit is 1:) Tj  T* (32 + 8 + 4 + 1 = 45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 104 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Octal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 43.6 cm
+q
+BT 1 0 0 1 0 30.5 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Split the binary number into groups of 3 digits, starting from the right:) Tj  T* (101 101) Tj  T* (Convert each group to one octal digit:) Tj  T* (101 = 5,   101 = 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 57.7 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (55) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Hex) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 2 cm
+q
+BT 1 0 0 1 0 30.5 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Split the binary number into groups of 4 digits, starting from the right:) Tj  T* (0010 1101) Tj  T* (Convert each group to one hex digit:) Tj  T* (0010 = 2,   1101 = D) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 16.1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (2D) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.5 w
+n 0 147.6 m 510.2362 147.6 l S
+n 0 0 m 510.2362 0 l S
+n 0 0 m 0 147.6 l S
+n 510.2362 0 m 510.2362 147.6 l S
+n 0 134.2 m 510.2362 134.2 l S
+n 0 83.2 m 510.2362 83.2 l S
+n 0 41.6 m 510.2362 41.6 l S
+n 51.02362 0 m 51.02362 147.6 l S
+n 425.1969 0 m 425.1969 147.6 l S
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 406.4472 cm
+Q
+q
+1 0 0 1 42.51969 384.4472 cm
+q
+.101961 .431373 .180392 rg
+n 0 22 510.2362 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 2 8.5 Tm /F2 9.5 Tf 18 TL (3. Octal ) Tj /F3 9.5 Tf 18 TL <ae> Tj /F2 9.5 Tf 18 TL ( Decimal / Binary / Hex \(Example: 57\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 381.4472 cm
+Q
+q
+1 0 0 1 42.51969 262.0472 cm
+q
+.862745 .941176 .862745 rg
+n 0 119.4 510.2362 -13.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Target) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Simple Steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Answer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Decimal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 66.4 cm
+q
+BT 1 0 0 1 0 30.5 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Write the value of 8 under each digit \(1, 8, 64...\), starting from the right.) Tj  T* (Digits:) Tj ( ) Tj ( ) Tj (5) Tj ( ) Tj ( ) Tj (7) Tj  T* (Values:) Tj ( ) Tj (8) Tj ( ) Tj ( ) Tj (1) Tj  T* (Multiply and add: \(5 × 8\) + \(7 × 1\) = 40 + 7 = 47) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 80.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (47) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Binary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 34.2 cm
+q
+BT 1 0 0 1 0 21.1 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Turn each octal digit into its own 3-digit binary code:) Tj  T* (5 = 101,   7 = 111) Tj  T* (Join them together: 101 111) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 43.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (101111) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 11.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Hex) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 2 cm
+q
+BT 1 0 0 1 0 21.1 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (First change to binary \(see above\): 101111) Tj  T* (Then regroup into 4-digit blocks from the right: 0010 1111) Tj  T* (Convert each block: 0010 = 2,   1111 = F) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 11.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (2F) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.5 w
+n 0 119.4 m 510.2362 119.4 l S
+n 0 0 m 510.2362 0 l S
+n 0 0 m 0 119.4 l S
+n 510.2362 0 m 510.2362 119.4 l S
+n 0 106 m 510.2362 106 l S
+n 0 64.4 m 510.2362 64.4 l S
+n 0 32.2 m 510.2362 32.2 l S
+n 51.02362 0 m 51.02362 119.4 l S
+n 425.1969 0 m 425.1969 119.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 259.0472 cm
+Q
+q
+1 0 0 1 42.51969 237.0472 cm
+q
+.478431 .290196 0 rg
+n 0 22 510.2362 -22 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 2 8.5 Tm /F2 9.5 Tf 18 TL (4. Hex ) Tj /F3 9.5 Tf 18 TL <ae> Tj /F2 9.5 Tf 18 TL ( Decimal / Binary / Octal \(Example: 3A\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 37.1811 234.0472 cm
+Q
+q
+1 0 0 1 42.51969 105.2472 cm
+q
+.94902 .901961 .8 rg
+n 0 128.8 510.2362 -13.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 117.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Target) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 117.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Simple Steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 117.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (Answer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 85.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Decimal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 66.4 cm
+q
+BT 1 0 0 1 0 39.9 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Remember: hex letters A\226F stand for 10\22615, so A = 10.) Tj  T* (Write the value of 16 under each digit, starting from the right.) Tj  T* (Digits:) Tj ( ) Tj ( ) Tj (3) Tj ( ) Tj ( ) Tj (A\(=10\)) Tj  T* (Values:) Tj ( ) Tj (16) Tj ( ) Tj ( ) Tj (1) Tj  T* (Multiply and add: \(3 × 16\) + \(10 × 1\) = 48 + 10 = 58) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 85.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (58) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Binary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 34.2 cm
+q
+BT 1 0 0 1 0 21.1 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (Turn each hex digit into its own 4-digit binary code:) Tj  T* (3 = 0011,   A = 1010) Tj  T* (Join them together: 0011 1010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 43.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (00111010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 11.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 7.1 Tf 9.4 TL (Octal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 2 cm
+q
+BT 1 0 0 1 0 21.1 Tm 9.4 TL /F1 7.1 Tf 0 0 0 rg (First change to binary \(see above\): 00111010) Tj  T* (Then regroup into 3-digit blocks from the right: 000 111 010) Tj  T* (Convert each block: 000 = 0,   111 = 7,   010 = 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 431.1969 11.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F2 7.1 Tf 9.4 TL (072) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.5 w
+n 0 128.8 m 510.2362 128.8 l S
+n 0 0 m 510.2362 0 l S
+n 0 0 m 0 128.8 l S
+n 510.2362 0 m 510.2362 128.8 l S
+n 0 115.4 m 510.2362 115.4 l S
+n 0 64.4 m 510.2362 64.4 l S
+n 0 32.2 m 510.2362 32.2 l S
+n 51.02362 0 m 51.02362 128.8 l S
+n 425.1969 0 m 425.1969 128.8 l S
+Q
+Q
+Q
+ 
+endstream
+endobj
+
+6 0 obj
+10854
+endobj
+
+%% Original object ID: 1 0
+7 0 obj
+<<
+  /F1 8 0 R
+  /F2 9 0 R
+  /F3 10 0 R
+>>
+endobj
+
+%% Original object ID: 2 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Name /F1
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 3 0
+9 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Name /F2
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 4 0
+10 0 obj
+<<
+  /BaseFont /Symbol
+  /Name /F3
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 11
+0000000000 65535 f 
+0000000052 00000 n 
+0000000154 00000 n 
+0000000477 00000 n 
+0000000586 00000 n 
+0000000914 00000 n 
+0000011823 00000 n 
+0000011872 00000 n 
+0000011958 00000 n 
+0000012103 00000 n 
+0000012253 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 11
+  /ID [<0b7b101819aa8f201513b75e8d2d78db><2a74f5b7c533bd00bd130d320b0948a1>]
+>>
+startxref
+12340
+%%EOF
