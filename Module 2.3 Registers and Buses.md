@@ -1,4 +1,4 @@
-# **Assembly Language – Registers and Buses **
+# **Assembly Language – Registers and Computer Buses **
 
 ## **What are Registers?**
 
